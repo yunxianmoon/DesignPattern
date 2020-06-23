@@ -1,0 +1,16 @@
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\AloneClientConnectionManager.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\ReuseClientConnectionManager.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\builder\DefaultContains.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\factory\simplefactory\PayFactory.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\ClientConnectionManager.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\singleton\IdGenerator.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\factory\simplefactory\Pay.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\builder\ResourceConfig.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\RuntimeContext.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\factory\simplefactory\WXPay.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\Contains.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\Destroyable.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\creational\factory\simplefactory\AliPay.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\ClientTransport.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\Configs.java
+D:\project\Designpattern\src\main\java\com\yunxian\design\pattern\behavioral\strategy\Connection.java
